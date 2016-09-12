@@ -1,0 +1,23 @@
+{
+    "name": "angular-sockjs-provider",
+    "version": "1.0.1",
+    "description": "SockJS provider for Angularjs.",
+    "homepage": "http://git.helenreds.com/akozlenkov/angular-sockjs-provider.git",
+    "authors": [
+        "Andrey Kozlenkov <andrey.kozlenkov@gmail.com>"
+    ],
+    "main": "angular-sockjs-provider.min.js",
+    "ignore": [
+        "bower.json",
+        ".bowerrc",
+        ".gitignore",
+        "Gruntfile.js",
+        "node_modules",
+        "package.json"
+    ],
+    "license": "MIT",
+    "dependencies": {
+        "angular": "~1.2.23",
+        "sockjs": "~0.3.4"
+    }
+}
